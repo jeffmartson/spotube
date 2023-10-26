@@ -20,7 +20,7 @@
     "detect-browser": "^5.3.0",
     "framer-motion": "^6",
     "gray-matter": "^4.0.3",
-    "next": "12.2.2",
+    "next": "13.5.0",
     "nextjs-progressbar": "^0.0.14",
     "react": "18.2.0",
     "react-dom": "18.2.0",
